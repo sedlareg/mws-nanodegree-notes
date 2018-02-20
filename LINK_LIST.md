@@ -173,3 +173,7 @@ https://developers.google.com/web/updates/2017/04/headless-chrome
 # FREE IMAGES
 [pixabay](https://pixabay.com/)
 [pixelio](https://www.pixelio.de/)
+
+# FRONTEND CHECKLIST
+https://frontendchecklist.io/
+https://github.com/thedaviddias/Front-End-Checklist
