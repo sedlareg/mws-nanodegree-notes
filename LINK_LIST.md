@@ -163,3 +163,8 @@ https://nimbus.everhelper.me/screenshot.php
 
 # CORS
 https://enable-cors.org/
+
+# TESTING
+https://www.seleniumhq.org/
+https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md
+https://developers.google.com/web/updates/2017/04/headless-chrome
