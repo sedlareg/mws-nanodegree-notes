@@ -135,16 +135,17 @@ https://github.com/R-H-T/GWLocationAPI
 
 # 100DAYS OF CODE
 https://github.com/Kallaway/100-days-of-code
-http://www.100daysofcode.com/resources/
+[100daysofcode - resources](http://www.100daysofcode.com/resources/)
 https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4
 
 # FIREBASE
 https://eu.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352
-https://firebase.google.com/
+[firebase](https://firebase.google.com/)
 
 # CSS FLEX
 http://www.flexboxdefense.com/
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/
 
 # SECURITY
 ## ANDROID
@@ -154,8 +155,8 @@ https://source.android.com/security/bulletin/
 https://www.android.com/security-center/
 
 # PROTOTYPING / WIREFRAME
-https://www.mockplus.com/
-https://www.sketchapp.com/
+[mockplus](https://www.mockplus.com/)
+[sketchapp](https://www.sketchapp.com/)
 
 # NANODEGREE
 https://www.reddit.com/r/udacitymws/
@@ -165,6 +166,10 @@ https://nimbus.everhelper.me/screenshot.php
 https://enable-cors.org/
 
 # TESTING
-https://www.seleniumhq.org/
-https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md
+[Selenium](https://www.seleniumhq.org/)
+[Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 https://developers.google.com/web/updates/2017/04/headless-chrome
+
+# FREE IMAGES
+[pixabay](https://pixabay.com/)
+[pixelio](https://www.pixelio.de/)
