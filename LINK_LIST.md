@@ -177,3 +177,8 @@ https://developers.google.com/web/updates/2017/04/headless-chrome
 # FRONTEND CHECKLIST
 https://frontendchecklist.io/
 https://github.com/thedaviddias/Front-End-Checklist
+
+# MATERIAL DESIGN / UI COMPONENTS
+https://www.styled-components.com/docs
+https://material.io/guidelines/
+http://www.material-ui.com/#/
