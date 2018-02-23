@@ -188,3 +188,6 @@ https://codeutopia.net/blog/2017/05/15/quick-javascript-testing-tip-how-to-struc
 https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/
 https://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/
 https://www.sitepoint.com/unit-test-javascript-mocha-chai/
+
+# PUBLIC APIS
+[List](https://github.com/toddmotto/public-apis)
