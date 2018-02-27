@@ -132,3 +132,39 @@ img {
 </style>
 <img class="w" src="images/Coffee_1280w.jpg" alt="Coffee by Amy March from Turkey" sizes="(max-width: 960px) 50vw, (min-width: 961px) 100vw" srcset="images/Coffee_1280w.jpg 1280w, images/Coffee_640w.jpg 640w"> 
 ```
+
+## PICTURE
+
+Picture consists of 1 or more source elements and one fallback img
+The browser keeps looking down the list until it finds a source which is usable, e.g you can provide a high performance webp if the browser supports it. 
+
+> The img tag is **not** optional!
+
+```html
+<picture>
+	<source srcset="" type="image/webp">
+	<source srcset="" type="image/jpeg">
+	<img src="" alt="">
+</picture>
+```
+
+Picture also allows media queries :)
+
+```html
+<picture>
+	<source media="(min-width: 650px)" srcset="xyz_large.png">
+	<source media="(min-width: 450px)" srcset="xyz_medium.png">
+	<img src="xyz_small.png" alt="">
+</picture>
+```
+
+Picture with mediaqueries and srcset for different viewports
+```html
+<picture>
+  <source media="(min-width: 1000px)" srcset="kookaburra_large_1x.jpg 1x, kookaburra_large_2x.jpg 2x">
+  <source media="(min-width: 500px)" srcset="kookaburra_medium_1x.jpg 1x, kookaburra_medium_2x.jpg 2x">
+  <img src="kookaburra_small.jpg" alt="The kookaburra: a terrestrial tree kingfisher native to Australia and New Guinea">
+</picture>
+```
+
+Some nice [examples](https://dev.opera.com/articles/responsive-images/) using picture.
