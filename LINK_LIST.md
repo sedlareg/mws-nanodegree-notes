@@ -191,3 +191,8 @@ https://www.sitepoint.com/unit-test-javascript-mocha-chai/
 
 # PUBLIC APIS
 [List](https://github.com/toddmotto/public-apis)
+
+# RESTAURENT PROJECT
+[Tailwind](https://tailwindcss.com/docs/what-is-tailwind/)
+
+[AMP](https://www.ampproject.org/)
