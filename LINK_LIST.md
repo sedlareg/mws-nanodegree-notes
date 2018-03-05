@@ -121,6 +121,7 @@ https://www.class-central.com/course/edx-cs50-s-computer-science-for-business-pr
 https://www.class-central.com/course/edx-data-structures-and-software-design-8517?utm_source=fcc_medium&utm_medium=web&utm_campaign=ivy_league_moocs_2018
 https://www.class-central.com/course/edx-algorithm-design-and-analysis-8520?utm_source=fcc_medium&utm_medium=web&utm_campaign=ivy_league_moocs_2018
 https://www.class-central.com/course/edx-animation-and-cgi-motion-7242?utm_source=fcc_medium&utm_medium=web&utm_campaign=ivy_league_moocs_2018
+https://www.pluralsight.com/browse/software-development/web-development?aid=7010a000001x64JAAQ&oid=&promo=&utm_campaign=US-Front-end-Dev-FB&utm_content=&utm_medium=digital_paid_social_facebook&utm_source=prospecting&utm_term=
 
 # DATABASES
 https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/
