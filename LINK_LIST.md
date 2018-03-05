@@ -197,3 +197,5 @@ https://www.sitepoint.com/unit-test-javascript-mocha-chai/
 [Tailwind](https://tailwindcss.com/docs/what-is-tailwind/)
 
 [AMP](https://www.ampproject.org/)
+
+[LocalForage/IDB](https://github.com/localForage/localForage)
