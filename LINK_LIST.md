@@ -200,3 +200,8 @@ https://www.sitepoint.com/unit-test-javascript-mocha-chai/
 [AMP](https://www.ampproject.org/)
 
 [LocalForage/IDB](https://github.com/localForage/localForage)
+
+# SEO
+[Google Search Console](https://search.google.com/search-console)
+[Ryte](https://de.ryte.com)
+[Mobile Friendly](https://search.google.com/test/mobile-friendly)
