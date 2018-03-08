@@ -207,3 +207,6 @@ https://www.sitepoint.com/unit-test-javascript-mocha-chai/
 [Ryte](https://de.ryte.com)
 
 [Mobile Friendly](https://search.google.com/test/mobile-friendly)
+
+# MOBILE DEVELOPMENT
+[Capacitor - IonicFramework](https://capacitor.ionicframework.com/)
