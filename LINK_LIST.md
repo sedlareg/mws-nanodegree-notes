@@ -143,7 +143,10 @@ https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4
 https://eu.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352
 [firebase](https://firebase.google.com/)
 
-# CSS FLEX
+# CSS
+## SASS
+https://github.com/iamshaunjp/sass-playlist
+## FLEX
 http://www.flexboxdefense.com/
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/
