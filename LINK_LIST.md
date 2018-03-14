@@ -60,6 +60,7 @@ https://svalbard.reaktor.com/tunnel
 
 # MACHINE LEARNING
 https://www.coursera.org/learn/machine-learning
+https://www.datacamp.com/courses/building-chatbots-in-python?utm_medium=fb%2Cig%2Can%2Cms-all&utm_source=fb_paid&utm_campaign=smartly_ppa&utm_id=5aa814bb921e7e6d4238bc0d
 
 # JS RESOURCES
 https://duckduckgo.com/?q=learn+javascript&t=opera&ia=web
