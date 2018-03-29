@@ -78,6 +78,8 @@
 * https://vuejsfeed.com/blog/vue-js-storefront-pwa-for-ecommerce
 * https://vuestorefront.io/
 * https://deity.io/
+* https://app.netlify.com/start
+* https://realfavicongenerator.net/
 
 # ATOMIC COMMITS
 * https://seesparkbox.com/foundry/atomic_commits_with_git
