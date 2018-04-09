@@ -82,6 +82,7 @@
 * https://deity.io/
 * https://app.netlify.com/start
 * https://realfavicongenerator.net/
+* https://www.windowscentral.com/first-batch-windows-10-progressive-web-apps-here?amp
 
 # ATOMIC COMMITS
 * https://seesparkbox.com/foundry/atomic_commits_with_git
@@ -214,3 +215,9 @@ https://www.class-central.com/course/coursera-algorithms-part-ii-340?utm_source=
 
 # MOBILE DEVELOPMENT
 * [Capacitor - IonicFramework](https://capacitor.ionicframework.com/)
+
+# Jquery
+* http://youmightnotneedjquery.com/
+* https://gorails.com/episodes/migrating-from-jquery-to-vanilla-javascript
+* https://blog.garstasio.com/you-dont-need-jquery/
+* https://www.sitepoint.com/jquery-vs-raw-javascript-1-dom-forms/
