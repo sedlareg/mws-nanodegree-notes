@@ -53,6 +53,8 @@
 * https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 * https://hackr.io/tutorials/learn-react?sort=upvotes&tags%5B%5D=1
 * https://medium.freecodecamp.org/introducing-rekit-studio-a-real-ide-for-react-and-redux-development-baf0c99cb542
+* https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw
+* https://www.fullstack.io/
 
 # CHALLENGES
 * https://github.com/imkira/hunt-reaktor
